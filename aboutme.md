@@ -8,7 +8,7 @@ show-avatar: true
 
 <div class="clearfix">
   <img src="/img/tiggy_mau.png" alt="Parinita and Tigger!" width ="150" height="150" class="float-left">
-  <p>This text appears next to the image.</p>
+  <h3 style="float-right">This text appears next to the image.</h3>
 </div>
 <p>This text appears below the image.</p>
 Software is so cool :)
