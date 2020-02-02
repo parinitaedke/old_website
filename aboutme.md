@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About me
+title: About Me
+show-avatar: true
 ---
 
 Software is so cool :)
