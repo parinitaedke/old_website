@@ -39,14 +39,14 @@ avatar: "/img/parinita_pic.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#5680E9"
-navbar-text-col: "#84CEEB"
-navbar-children-col: "#5AB9EA"
-page-col: "#FFFFFF"
+navbar-col: "#E85A4F"
+navbar-text-col: "#EAE7DC"
+navbar-children-col: "#D8C3A5"
+page-col: "EAE7DC"
 link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
+hover-col: "#E98074"
+footer-col: "E85A4F"
+footer-text-col: "#EAE7DC"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
