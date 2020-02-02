@@ -4,6 +4,7 @@ title: About Me
 show-avatar: true
 ---
 
+![Parinita and Tigger](/img/tiggy_mau.png "Parinita and Tigger!")
 Software is so cool :)
 
 What else do you need?
