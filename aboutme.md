@@ -4,7 +4,7 @@ title: About Me
 show-avatar: true
 ---
 
-![Parinita and Tigger](/img/tiggy_mau.png "Parinita and Tigger!")
+![Parinita and Tigger](/img/tiggy_mau.png "Parinita and Tigger!"){: .center-block :}
 
 Software is so cool :)
 
