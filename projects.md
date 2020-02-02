@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 subtitle: What's been eating away my free time
+show-avatar: true
 ---
 Here is a list of my projects :)
 
