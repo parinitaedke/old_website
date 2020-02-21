@@ -4,7 +4,7 @@
 title: Parinita Edke
 
 # Short description of your site
-description: Parinita's Website
+description: Personal Website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,7 +22,7 @@ description: Parinita's Website
 navbar-links:
   Home: "https://parinitaedke.me"
   Projects: "projects"
-  Courses: "courses"
+  Coursework: "courses"
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
   About: "aboutme"
@@ -71,7 +71,7 @@ author:
 social-network-links:
 #  rss: true
   email: "parinita.edke@mail.utoronto.ca"
-#  facebook: deanattali
+  facebook: parinitaedke
   github: parinitaedke
 # twitter: daattali
 #  reddit: yourname
@@ -82,7 +82,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +16479271811
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -90,7 +90,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
 #  twitter: true
-#  facebook: true
+  facebook: true
   linkedin: true
 
 # How to display the link to the website in the footer
@@ -159,7 +159,8 @@ date_format: "%B %-d, %Y"
 
 # Output options (more information on Jekyll's site)
 timezone: "Canada/Eastern"
-markdown: kramdown
+#markdown: kramdown
+markdown: CommonMarkGhPages
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
