@@ -3,20 +3,18 @@ layout: page
 title: About Me
 show-avatar: true
 ---
-
-
-<div class="person1" style="float:left; display:inline-block; ">
-       <span style="float:left;width: 50%;">
-           <img src="/img/tiggy_mau.png"  
-            width="350" height"350" />
-       </span>
-       <span style="float:right;width: 50%;">
-       <p style="float:right; display:block;"> 
-    
-Now with a technical foundation, I’m interested in Machine Learning and AI and its applications in the medical world as it’s an intesection with my interests in medicine, focuses on the human aspect of computer science, and leverages my strong suit of critical thinking. <br/>
-            Learn more about my experience from my <a href="/img/Parinita_Edke.pdf">resume</a>.
-        </p>
-       </span>
+<div class="row text-center">
+  <div class="col-md-6 col-md-offset-0 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+    <img src="/img/tiggy_mau.png"
+         width="335" height="450" />
+  </div>
+  <div class="col-md-6 col-md-offset-0 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+    <p style="float:right; display:block;" align="left">
+     I'm a Computer Science and Statistics student interested in Med Tech and Software Development with a passion for social good.<br/>
+     Now with a technical foundation, I’m interested in Machine Learning and AI and its applications in the medical world as it’s an intesection with my interests in medicine, focuses on the human aspect of computer science, and leverages my strong suit of critical thinking. <br/>
+     Learn more about my experience from my <a href="/img/Parinita_Edke.pdf">resume</a>.
+     </p>
+  </div>
 </div>
 
 
